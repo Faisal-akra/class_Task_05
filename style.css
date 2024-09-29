@@ -53,6 +53,7 @@
 .buttons button{
     background-color: black;
     color: white;
-    height: 5vh;
+    height: 10vh;
+    border-radius: 5vh;
 
 }
