@@ -1,7 +1,7 @@
 .container{
     background-color: blue;
-    width: 800px;
-    height: 300px;
+    width: 900px;
+    height: 400px;
     justify-content: center;
     text-align: center;
     margin-left: auto;
@@ -27,7 +27,16 @@
 
 .input input{
     border-radius: 7px;
-    
+}
+
+
+.input input:hover{
+    font-size: large;
+    color: black;
+}
+#calculate:hover{
+    font-size: large;
+    color: black;
 }
 
 .input button{
