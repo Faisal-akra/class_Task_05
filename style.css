@@ -52,8 +52,9 @@
 
 .buttons button{
     background-color: black;
-    color: white;
+    color: whitesmoke;
     height: 10vh;
-    border-radius: 5vh;
+    width: 15vh;
+    
 
 }
