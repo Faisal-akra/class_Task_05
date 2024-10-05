@@ -47,9 +47,9 @@ var inputDate =  document.getElementById("user-d.o.b").value;
     }
 
   
- document.getElementById('years').textContent = `your age is ${age} Years ` 
- document.getElementById('months').textContent = `you are ${monthDifference} Months old`
- document.getElementById('days').textContent = `you are ${days} days old`
+ document.getElementById('years').textContent = `Age:  ${age} ` 
+ document.getElementById('months').textContent = `Months ${monthDifference} `
+ document.getElementById('days').textContent = `Days ${days} `
     
 }
 
